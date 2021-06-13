@@ -6,8 +6,8 @@
     <h4 class="full-width text-secondary text-center text-bold q-mb-sm">
       Venue
     </h4>
-    <div class="full-width flex justify-center items-end">
-      venue details
+    <div class="full-width flex justify-center items-end text-center">
+      Days Hotel by Wyndham, <br>245, 1, Old Mahabalipuram Rd, Padur, Tamil Nadu 603103
     </div>
     <h4 class="full-width text-warning text-center text-bold q-ma-lg">
       Location
